@@ -1,4 +1,4 @@
 IHMC
 ====
 
-IHMC presentation
+UHK FIM IHMC internship presentation
